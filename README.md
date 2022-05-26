@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dina Ibrahim</h1>
 <h3 align="center">Machine learning | Data scientist from Egypt 🇪🇬</h3>
 
-- 👩‍🎓I have a Bachelor's degree in computer science and statistics from **Alexandria University faculty of science**
-
 - 🔭I am certified by **Microsoft, IBM and Huawei**
+
+- 👩‍🎓I have a Bachelor's degree in computer science and statistics from **Alexandria University faculty of science**
 
 - 👩‍🎓I have a master's degree in AI and Data science from **the University of Ottawa**
 
