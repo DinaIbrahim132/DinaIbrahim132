@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dina Ibrahim</h1>
-<h3 align="center">Machine learning | Data scientist from Egypt 🇪🇬</h3>
+<h3 align="center">Machine learning Engineer | Data scientist from Egypt 🇪🇬</h3>
 
 - 🔭I am certified by **Microsoft, IBM and Huawei**
 
